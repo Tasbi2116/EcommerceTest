@@ -1,0 +1,4 @@
+backend/src/controllers/product.controller.ts(5,35): error TS6133: 'req' is declared but its value is never read.
+backend/src/index.ts(22,25): error TS6133: 'req' is declared but its value is never read.
+backend/src/middleware/errorHandler.ts(3,44): error TS6133: 'req' is declared but its value is never read.
+backend/src/middleware/errorHandler.ts(3,73): error TS6133: 'next' is declared but its value is never read.
